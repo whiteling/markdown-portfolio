@@ -1,1 +1,1 @@
-[Raintime](https://octodex.github.com/umbrellatocat)
+![Raintime](https://octodex.github.com/images/yaktocat.png)
